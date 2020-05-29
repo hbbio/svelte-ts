@@ -11,5 +11,6 @@ The initial commit is the official Svelte template (for JavaScript).
 ## Other problems
 
 - `npm run dev` exits
+- no autocomplete on file paths (".svelte" components)
 
 ## Wishlist
