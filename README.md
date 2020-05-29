@@ -2,6 +2,10 @@ This repository is a playground for isolating issues and putting together best p
 
 The initial commit is the official Svelte template (for JavaScript).
 
+## Configuration
+
+- vscode (1.45.1) with Svelte Beta (99.0.28), no other Svelte extension
+
 ## Issues
 
 - https://github.com/sveltejs/svelte-preprocess/issues/160 (tmp fix: add '.svelte' extension)
@@ -10,6 +14,6 @@ The initial commit is the official Svelte template (for JavaScript).
 
 ## Other problems
 
-- `npm run dev` exits
+- no autocomplete on file paths (".svelte" components)
 
 ## Wishlist
