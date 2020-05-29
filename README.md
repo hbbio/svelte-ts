@@ -23,3 +23,5 @@ The initial commit is the official Svelte template (for JavaScript).
 - no autocomplete on file paths (".svelte" components)
 
 ## Wishlist
+
+[#TypeScript is as good for the developer mind as it is bad for #ClimateChange.](https://twitter.com/henri_opa/status/1266470719774433280?s=20)
