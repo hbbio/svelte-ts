@@ -8,6 +8,9 @@ The initial commit is the official Svelte template (for JavaScript).
 
 ## Issues
 
+- Can't import types from `types.ts` in Svelte component? (no example yet)
+- Event actions show multiple type errors (no example yet)
+
 - https://github.com/sveltejs/svelte-preprocess/issues/160 (tmp fix: add '.svelte' extension)
 - https://github.com/sveltejs/svelte-preprocess/issues/159 (tmp fix: add '.ts' extension despite TS error)
 - https://github.com/sveltejs/svelte-preprocess/issues/158 (no example yet)
