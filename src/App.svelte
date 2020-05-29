@@ -25,6 +25,7 @@
 </style>
 
 <main>
+  <Tabs {items} />
   <h1>Hello {name}!</h1>
   <p>May I call you {test()}?</p>
   <p>
